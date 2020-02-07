@@ -1,0 +1,6 @@
+let num1 = Number(prompt())
+let num2 = Number(prompt())
+let num3 = Number(prompt())
+let num4 = Number(prompt())
+let num5 = Number(prompt())
+alert((num1 + num2 + num3 + num4 + num5)/ 5)
